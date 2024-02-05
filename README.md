@@ -4,20 +4,20 @@ Currently we’re monitoring weather station parameter such as wind speed and di
 Wind Velocity and Wind Direction
 Duration measurement
 # Prerequisites
-Arduino IDE [Tested]
-Edge Impulse Software [Tested]
-Jupyter Notebook [Tested]
-Google Colab [Tested]
+- Arduino IDE [Tested]
+- Edge Impulse Software [Tested]
+- Jupyter Notebook [Tested]
+- Google Colab [Tested]
 # Getting Started
-Connect the Components as shown in the Wiring Diagram
-Upload the Data Collection Module script to Arduino BLE Sense board.
-Collect the Data using Arduino Megaboard
-Once the data collection Completed
-Preprocess the data with required timestamp and labels.
-Import the data into Edge Impulse software
-Data Training
-Impulse Designing
-Model Training
-Performance Evaluation
-Deployment on board Edge module
-New hardware developed for data collection
+- Connect the Components as shown in the Wiring Diagram
+- Upload the Data Collection Module script to Arduino BLE Sense board.
+- Collect the Data using Arduino Megaboard
+- Once the data collection Completed
+- Preprocess the data with required timestamp and labels.
+- Import the data into Edge Impulse software
+- Data Training
+- Impulse Designing
+- Model Training
+- Performance Evaluation
+- Deployment on board Edge module
+- New hardware developed for data collection
