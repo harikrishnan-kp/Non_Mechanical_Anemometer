@@ -29,6 +29,6 @@ Speed of sound depends on temperature and humidity.
 Speed of Sound (m/s) = 331.5 + 0.6 * Temperature (°C) + 0.0124 * Humidity (%)
 it depends on the temperature , humidity. 
 We take a large amount of dataset at different speed levels using pedestrial fan  and move the distance between the non mechanical anemometer setup and the fan. Also compared the wind speed of non mechancial anemometer with digital anemometer.
-![](https://github.com/shruthigirija/Non_Mechanical_Anemometer/tree/e1b6cb104803e4461c48490c7937a50fd2721662/Images)
 
+<img src="https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/b58546d2d8578afcda4140f39cb8fb23eb196609/Images/Digital_anemometer_with_ultrasonic.jpg" width="500" height="400">
 
