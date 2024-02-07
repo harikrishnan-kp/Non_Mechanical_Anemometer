@@ -11,7 +11,7 @@ Wind Velocity and Wind Direction
 # Sensor
 - Transducers salvaged from HCSR04
 # Getting started
-- Connect the sensor to a microcontroller (Arduino)
+- Connect the sensor to a microcontroller (Arduino) [circuit diagram](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/a82335dfc3963c87193f28595e41b3e928f10a46/Hardware/wiring_diagram.png)
 - Upload the Data Collection Module script to Arduino  board.
 - Once the data collection Completed,Preprocess the data with required timestamp and labels.
 - Import the data into Edge Impulse software and Jupyter Notebook
