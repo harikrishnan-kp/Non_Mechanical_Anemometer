@@ -40,3 +40,9 @@ Combined the csv file as [data](https://github.com/shruthigirija/Non_Mechanical_
 
 In this the duration 1 and duration 2 are taken from the HCSR04 module and the temperature and humidity value taken from DHT22. These values are compared with the readings from a digital anemometer.Thus the digital anemometer value marked as Velocity.
 
+Direction taken by the experiment 
+<img src="https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/79d4757ce54ac5e38c9678aad24b8e2ec2ae0cf9/Images/Exp_Setup2.jpg" width="500" height="400">
+
+ML model creation using the dataset [model_creation](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/79d4757ce54ac5e38c9678aad24b8e2ec2ae0cf9/ML_Model_creation/combined_data_direction_velocity_ai_algorithm(all).py).
+
+All models and the output shown in 
