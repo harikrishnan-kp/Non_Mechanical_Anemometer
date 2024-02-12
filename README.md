@@ -42,7 +42,7 @@ In this the duration 1 and duration 2 are taken from the HCSR04 module and the t
 
 Direction taken by the experiment 
 
-<img src="https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/79d4757ce54ac5e38c9678aad24b8e2ec2ae0cf9/Images/Exp_Setup2.jpg" width="500" height="500">
+<img src="https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/79d4757ce54ac5e38c9678aad24b8e2ec2ae0cf9/Images/Exp_Setup2.jpg" width="500" height="1084">
 
 ML model creation using the dataset [model_creation](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/79d4757ce54ac5e38c9678aad24b8e2ec2ae0cf9/ML_Model_creation/combined_data_direction_velocity_ai_algorithm(all).py).
 
