@@ -45,4 +45,5 @@ Direction taken by the experiment
 
 ML model creation using the dataset [model_creation](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/79d4757ce54ac5e38c9678aad24b8e2ec2ae0cf9/ML_Model_creation/combined_data_direction_velocity_ai_algorithm(all).py).
 
-All models and the output shown in 
+All models and the output shows below
+<img src="https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/2be12674111fa830dbdfe23fcedea64dcd0d3ed0/Images/result.png" width="500" height="400">
