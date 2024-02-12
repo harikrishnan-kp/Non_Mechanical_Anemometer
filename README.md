@@ -38,4 +38,5 @@ Data collected as csv file [Dataset](https://github.com/shruthigirija/Non_Mechan
 
 Combined the csv file as [data](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/352eefff3b7fbba30cfa4295033f3098b924074d/ML_Model_creation/combined_data_direction_velocity(1).csv).
 
-In this the duration 1 and duration 2 are taken from the HCSR04 module and the temperature and humidity value taken from DHT22. This values are compared with a digital anemometer. Thus the digital anemometer value marked as Velocity.
+In this the duration 1 and duration 2 are taken from the HCSR04 module and the temperature and humidity value taken from DHT22. These values are compared with the readings from a digital anemometer.Thus the digital anemometer value marked as Velocity.
+
