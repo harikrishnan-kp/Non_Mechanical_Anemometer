@@ -35,3 +35,8 @@ We take a large amount of dataset at different speed levels using pedestrial fan
 <img src="https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/b58546d2d8578afcda4140f39cb8fb23eb196609/Images/Digital_anemometer_with_ultrasonic.jpg" width="500" height="400">
 
 Data collected as csv file [Dataset](https://github.com/shruthigirija/Non_Mechanical_Anemometer/tree/391bb9dc54901b64c6703b10e69fe1d312284d60/Dataset/forward_velocity_data).
+
+Combined the csv file as [data](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/352eefff3b7fbba30cfa4295033f3098b924074d/ML_Model_creation/combined_data_direction_velocity(1).csv).
+
+In this the duration 1 and duration 2 are taken from the HCSR04 module and the temperature and humidity value taken from DHT22. These values are compared with the readings from a digital anemometer.Thus the digital anemometer value marked as Velocity.
+
