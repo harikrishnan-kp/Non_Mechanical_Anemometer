@@ -9,9 +9,9 @@ Wind Velocity and Wind Direction
 - Jupyter Notebook [Tested]
 - Google Colab [Tested]
 # Sensor
-- Transducers salvaged from HCSR04
+- Transducers
 # Getting started
-- Connect the sensor to a microcontroller (Arduino) [circuit diagram](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/83b56dc9e4bb26d55bc2e0940b8e8ad90644d819/Hardware/circuit_diagram.png)
+- Connect the sensor to a microcontroller (Arduino) [circuit diagram](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/83b56dc9e4bb26d55bc2e0940b8e8ad90644d819/Hardware/circuit_diagram.png) & [final circuit diagram](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/3a38a9814a3b25b9900fe5588a3d1948c85f6072/Hardware/Final_Circuit_Diagram_Ultrasonic_Anemometer.pdf).
 - Upload the Data Collection Module script to Arduino  board.
 - Once the data collection Completed,Preprocess the data with required timestamp and labels.
 - Import the data into Edge Impulse software and Jupyter Notebook
