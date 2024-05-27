@@ -55,5 +55,10 @@ All models and the output shows below
 Second phase of the project [anemometer document](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/ddd9cc8e9ba9b56fa7ea026a515ed27bcfd959de/Documentation/Development_of_Inhouse_Non_Mechanical_Anemometer__v_1_2_.pdf) attached here.Ultrasonic anemometer is used to measure wind velocity and direction for weather stations and other industrial applications. It consists of ultrasonic transducers, signal processing unit, amplifier, bandpass filter and also a sonic anemometer is used. Transducers are used to generate 40KHz ultrasonic sound waves.Signal routing is used to control the sensor operation and to reduce the hardware complexity by reusing the transmitter and receiver circuit. Amplifier is used to amplify the receiver.The received signal first passes from the amplifier stage to increase the strength of the signal after that it passes through the band pass filter which is having a center frequency of 40 kHz and bandwidth of 10kHz, to remove the unwanted frequency component.Bandpass filter designed for this purpose.
 The block diagram of ultrasonic transducer setup.
 
-<img src="https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c472eb2cb6dc8963a3f4fcdc3e665c3b5b8d4bac/Images/nm_anemometer_inhouse_block.png" width="500" height="400">
+<img src="https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c472eb2cb6dc8963a3f4fcdc3e665c3b5b8d4bac/Images/nm_anemometer_inhouse_block.png" width="500" height="500">
+
+The [code](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Software/Arduino/Ultrasonic_anemometer_final_code.ino) uploaded to the arduino nano ble 33 sense board.
+From this we got time duration as Tn-s,Ts-n,Te-w.Tw-e. After the calculation, found the wind velocity and the [result](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Images/anemometer_result.png).
+
+Result takes on the basis of [Indoor](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Images/anemometer_indoor.jpg) and [outdoor](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Images/anemometer_outdoor.jpg) test.
 
