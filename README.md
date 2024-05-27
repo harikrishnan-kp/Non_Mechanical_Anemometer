@@ -58,7 +58,7 @@ The block diagram of ultrasonic transducer setup.
 <img src="https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c472eb2cb6dc8963a3f4fcdc3e665c3b5b8d4bac/Images/nm_anemometer_inhouse_block.png" width="500" height="500">
 
 The [code](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Software/Arduino/Ultrasonic_anemometer_final_code.ino) uploaded to the arduino nano ble 33 sense board.
-From this we got time duration as Tn-s,Ts-n,Te-w.Tw-e. After the calculation, found the wind velocity and the [result](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Images/anemometer_result.png).
+From this we got time duration as Tn-s,Ts-n,Te-w.Tw-e. After the calculation, found the wind velocity and the [result](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Images/anemometer_result.png) ttached here..
 
 Result takes on the basis of [Indoor](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Images/anemometer_indoor.jpg) and [outdoor](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Images/anemometer_outdoor.jpg) test.
 
