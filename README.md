@@ -49,3 +49,8 @@ ML model creation using the dataset [model_creation](https://github.com/shruthig
 All models and the output shows below
 
 <img src="https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/2be12674111fa830dbdfe23fcedea64dcd0d3ed0/Images/result.png" width="500" height="400">
+
+-Second Phase
+
+Second phase of the project [anemometer document](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/ddd9cc8e9ba9b56fa7ea026a515ed27bcfd959de/Documentation/Development_of_Inhouse_Non_Mechanical_Anemometer__v_1_2_.pdf) attached here.
+
