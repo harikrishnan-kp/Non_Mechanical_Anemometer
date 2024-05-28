@@ -22,7 +22,7 @@ Wind Velocity and Wind Direction
 - Deployment on board Edge module
 # Outline
 The project divided into 2 phases.
-- First phase 
+### First phase 
 
 Consider 2 HCSR04 sensor. Transducer salvaged from HCSR04.The transducer modules were found to be marked as R & T respectively by the manufacturers. In this experiment, 2 HCSR04 modules and DHT were used. The transducers are elongated and connected to a 3D printed enclosure orthogonal to each other. Take the time duration between transmitter and receiver. Also temperature and humidity measurements. Because the wind velocity can be calculated using time of flight principle.The time-of-flight principle is based on measuring the time it takes for a wave to travel from a source (a time-of-flight sensor) to an object and back.
 Speed of sound depends on temperature and humidity.
@@ -50,7 +50,7 @@ All models and the output shows below
 
 <img src="https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/2be12674111fa830dbdfe23fcedea64dcd0d3ed0/Images/result.png" width="500" height="400">
 
--Second Phase
+### Second Phase
 
 Second phase of the project [anemometer document](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/ddd9cc8e9ba9b56fa7ea026a515ed27bcfd959de/Documentation/Development_of_Inhouse_Non_Mechanical_Anemometer__v_1_2_.pdf) attached here.Ultrasonic anemometer is used to measure wind velocity and direction for weather stations and other industrial applications. It consists of ultrasonic transducers, signal processing unit, amplifier, bandpass filter and also a sonic anemometer is used. Transducers are used to generate 40KHz ultrasonic sound waves.Signal routing is used to control the sensor operation and to reduce the hardware complexity by reusing the transmitter and receiver circuit. Amplifier is used to amplify the receiver.The received signal first passes from the amplifier stage to increase the strength of the signal after that it passes through the band pass filter which is having a center frequency of 40 kHz and bandwidth of 10kHz, to remove the unwanted frequency component.Bandpass filter designed for this purpose.
 The block diagram of ultrasonic transducer setup.
