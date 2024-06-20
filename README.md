@@ -62,7 +62,7 @@ The [Hardware setup](https://github.com/shruthigirija/Non_Mechanical_Anemometer/
 The [code](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Software/Arduino/Ultrasonic_anemometer_final_code.ino) uploaded to the arduino nano ble 33 sense board.
 From this we got time duration as Tn-s,Ts-n,Te-w.Tw-e. After the calculation, found the wind velocity and the [result](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/5054a3da9aa847087ddcc230e5b44b3b201682f6/Images/result.png) attached here.
 
-Result takes on the basis of [Indoor](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Images/anemometer_indoor.jpg)and [outdoor](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Images/anemometer_outdoor.jpg) test.
+Result takes on the basis of [Indoor](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Images/anemometer_indoor.jpg)and [outdoor](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/adcc814a70aa7188f4c5506e82b20594172a5258/Images/Image%201outdoor%20test%201.jpg) test.
 
 # Enclosure
 <img src=https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/5aa0c476e579870c4133b7e94617aa4176a62458/Images/Anemometer.jpg>
