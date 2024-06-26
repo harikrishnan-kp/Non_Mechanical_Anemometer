@@ -64,7 +64,7 @@ From this we got time duration as Tn-s,Ts-n,Te-w.Tw-e. After the calculation, fo
 Also the [result2](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/fd61c83ceb227d775257e7c03c663d7040ae087c/Images/anemometer_comparison.png) is the comparison between Cup anemometer,Digital Anemometer and Ultrasonic anemometer. 
 <img src=https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/adcc814a70aa7188f4c5506e82b20594172a5258/Images/Image%201outdoor%20test%201.jpg>
 
-Result takes on the basis of [Indoor](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/c861909e140a28759b107ddf321069bbb6cf47ca/Images/anemometer_indoor.jpg)and [outdoor](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/adcc814a70aa7188f4c5506e82b20594172a5258/Images/Image%201outdoor%20test%201.jpg) test.
+Result takes on the basis of [Indoor](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/fa95aec6f0472734dbde49f0744d557df163ce32/Images/anemometer_indoor_testsetup.jpg)and [outdoor](https://github.com/shruthigirija/Non_Mechanical_Anemometer/blob/adcc814a70aa7188f4c5506e82b20594172a5258/Images/Image%201outdoor%20test%201.jpg) test.
 
 
 # Enclosure
